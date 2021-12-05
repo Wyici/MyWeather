@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/yesterday"
+        android:title="昨天天气">
+    </item>
+    <item android:id="@+id/today"
+        android:title="今天天气">
+    </item>
+    <item android:id="@+id/tomorrow"
+        android:title="明天天气">
+    </item>
+    <item android:id="@+id/forecast"
+        android:title="后天天气">
+    </item>
+</menu>
